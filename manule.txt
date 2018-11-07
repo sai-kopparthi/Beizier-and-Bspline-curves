@@ -1,0 +1,20 @@
+ Hi!
+This project present you with Beizer and Bspline curves by taking control points from file "in.txt" and do modifications on the control points points and again save it back in the file back for later use.So intial curve on the screen is beizer curve.
+=======================================================================================================================================================================================
+the control options include
+1>add vertex to the polygon
+2>delete vertex
+3>modify the vertex in a polygon
+4>continue bspline curve
+5>continue with beizer curve
+=======================================================================================================================================================================================  
+click options
+1 a>enter the polygon number which ranges from 1 to number of polygons in the file.
+  b>enter the postion you want to enter the new point with range from 1 to number vertices in a corresponding polygon. 
+  c>enter the x coordinate and y coorifinate corespondingly .	
+2 a>enter the polygon number which ranges from 1 to number of polygons in the file.
+  b>enter the postion you want to remove the point with a range from 1 to number vertices in a corresponding polygon.
+3 a>enter the polygon number which ranges from 1 to number of polygons in the file.
+  b>enter the postion you want to enter the new point, ranging from 1 to number vertices in a corresponding polygon).
+  c>enter the x coordinate and y coorifinate corespondingly.
+==============================================================================================================================================================================================
